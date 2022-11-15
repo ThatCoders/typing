@@ -448,8 +448,7 @@ export const GlobalStyles = createGlobalStyle`
   }
   .wordcard-meaning-display-field{
     font-size: 20px;
-    margin-top: 40px;
-    margin-bottom: 10px;
+    margin: 40px;
   }
   .next-sentence-display{
     font-family: ${({ theme }) => theme.fontFamily};
